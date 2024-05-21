@@ -1,9 +1,0 @@
-# .npmignore
-config/
-docs/
-tests/
-Dockerfile
-docker-compose.yml
-.gitignore
-LICENSE
-README.md
